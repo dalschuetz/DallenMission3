@@ -1,0 +1,14 @@
+C:\Users\dalle\RiderProjects\Mission3\bin\Debug\net9.0\Mission3.exe
+C:\Users\dalle\RiderProjects\Mission3\bin\Debug\net9.0\Mission3.deps.json
+C:\Users\dalle\RiderProjects\Mission3\bin\Debug\net9.0\Mission3.runtimeconfig.json
+C:\Users\dalle\RiderProjects\Mission3\bin\Debug\net9.0\Mission3.dll
+C:\Users\dalle\RiderProjects\Mission3\bin\Debug\net9.0\Mission3.pdb
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.AssemblyInfoInputs.cache
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.AssemblyInfo.cs
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.csproj.CoreCompileInputs.cache
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.dll
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\refint\Mission3.dll
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.pdb
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\Mission3.genruntimeconfig.cache
+C:\Users\dalle\RiderProjects\Mission3\obj\Debug\net9.0\ref\Mission3.dll
